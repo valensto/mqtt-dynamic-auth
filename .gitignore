@@ -1,0 +1,4 @@
+./mosquitto/data
+./mosquitto/log
+.env
+docker-compose.yml
